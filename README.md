@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhakumari108&label=Profile%20views&color=0e75b6&style=flat" alt="shobhakumari108" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhakumari108" alt="shobhakumari108" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java backend**
 
@@ -16,6 +16,7 @@
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA**
 
 - 📫 How to reach me **kankadeewani55@gmail.com**
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhakumari108" alt="shobhakumari108" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
