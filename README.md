@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Shobha+Kumari!;Java+Back-end+Developer...;" style="width: 100%;">
-<img src="https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"/>
-<h1 align="center">Hi 👋, I'm Shobha Kumari</h1>
-<img src="https://techforceglobal.com/wp-content/uploads/2022/07/2.gif"/>
+<img align="center" height="400" width="100%" src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif"/>
+<h1 align="center">Hi 👋, I'm Shobha Kumari</h1><div align="right" height="-100" > <img align="right" src="https://techforceglobal.com/wp-content/uploads/2022/07/2.gif"/></div>
+
+<!-- <img  src="https://techforceglobal.com/wp-content/uploads/2022/07/2.gif"/> -->
 
 <h3 align="center">A passionate backend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhakumari108&label=Profile%20views&color=0e75b6&style=flat" alt="shobhakumari108" /> </p>
 
 
@@ -13,9 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shobhakumari108/shobhakumari108.github.io](https://github.com/shobhakumari108/shobhakumari108.github.io)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA**
+- 💬 Ask me about **HTM,CSS,JavaScript,JAVA**
 
 - 📫 How to reach me **kankadeewani55@gmail.com**
+
+
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhakumari108" alt="shobhakumari108" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
