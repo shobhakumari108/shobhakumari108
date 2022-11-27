@@ -1,10 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Shobha+Kumari!;Java+Back-end+Developer...;" style="width: 100%;">
 <img align="center" height="400" width="100%" src="https://cdn.dribbble.com/users/24711/screenshots/3886002/falcon_persistent_connection_2x.gif"/>
-<h1 align="center">Hi 👋, I'm Shobha Kumari</h1><div align="right" height="-100" > <img align="right" src="https://techforceglobal.com/wp-content/uploads/2022/07/2.gif"/></div>
+<h1 align="center">Hi 👋, I'm Shobha Kumari</h1><img align="right" width="30%" src="https://techforceglobal.com/wp-content/uploads/2022/07/2.gif"/>
 
 <!-- <img  src="https://techforceglobal.com/wp-content/uploads/2022/07/2.gif"/> -->
 
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="right">A passionate backend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhakumari108&label=Profile%20views&color=0e75b6&style=flat" alt="shobhakumari108" /> </p>
 
 
